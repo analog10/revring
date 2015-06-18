@@ -1,0 +1,8 @@
+This is a sample implementation of revring, documented here https://analog10.com/posts/circular_buffer.html
+
+To compile, open revring.c with your IDE and compile.
+On Linux, you can just run
+
+gcc revring.c
+
+and run the a.out executable.
